@@ -21,7 +21,7 @@ complete notebook is available at https://github.com/sneha2003er/project/blob/ma
 
 >3.Random Forest
 
-complete notebook is available at https://github.com/sneha2003er/project/blob/main/random_forest_modeling.ipynb
+complete notebook is available at https://github.com/sneha2003er/project/blob/main/random_forest_model_creation.ipynb
 
 >4.CNN
 
